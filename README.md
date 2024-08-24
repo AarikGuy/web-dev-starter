@@ -2,23 +2,15 @@
 
 ## Overview
 
-TODO: Write a project description
+This is a Web Dev Starter kit to help us throughout CS 408. 
+It's going to help with any debugging or testing for websites
+we'll be developing. This was also a review/warmup of our CS 208
+knowledge.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- Making the text comic sans: https://stackoverflow.com/questions/21334839/applying-comic-sans-ms-font-style
+- The borders: https://www.w3schools.com/cssref/pr_border-style.php
+- Centering the image: https://stackoverflow.com/questions/45439710/center-an-image-in-css
+- Positioning the other text: https://www.w3schools.com/cssref/pr_class_position.php
+- Event listener/button: https://stackoverflow.com/questions/35667267/addeventlistenerclick-firing-immediately

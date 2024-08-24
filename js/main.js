@@ -16,4 +16,7 @@ function loaded() {
 export function sayHello() {
     return 'hello';
 }
-// I watched the video fyi.
+
+document.getElementById('greetButton').addEventListener('click', function(){
+    alert(sayHello());
+});

@@ -1,4 +1,29 @@
 h1{
-  border-color: #d3e644;
-  border-style: dashed;
+  border-style: groove;
+}
+li{
+  font-family: "Comic Sans MS";
+}
+body{
+  border-style: groove;
+  color: black;
+  background-color: beige;
+}
+ul{
+  border-style: ridge;
+}
+img{
+  padding: inherit;
+  margin: auto;
+  width: 500px;
+  display: block;
+}
+p{
+  font-family: "Comic Sans MS";
+  text-align: center;
+}
+button{
+  font-size: larger;
+  font-style: initial;
+  font-weight: bold;
 }
