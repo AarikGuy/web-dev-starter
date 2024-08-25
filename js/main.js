@@ -17,6 +17,9 @@ export function sayHello() {
     return 'hello';
 }
 
+/**
+ * When the 'greetButton' is clicked, this code shows an alert with the message 'hello'.
+ */
 document.getElementById('greetButton').addEventListener('click', function(){
     alert(sayHello());
 });
